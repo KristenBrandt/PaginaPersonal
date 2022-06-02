@@ -140,7 +140,7 @@ function App(){
                         <p className="lead">Página hecha solo utilizando HTML</p>
                         <img src={Nohtml}></img>
                         <br></br>
-                        <p><a className="btn btn-lg btn-primary" href="http://13.58.152.255/lab3/index.html">Ver la página de solo HTML</a></p>
+                        <p><a className="btn btn-lg btn-primary" href="http://stw-uvg-22.site/lab03/KABF171482/lab3/index.html">Ver la página de solo HTML</a></p>
      
                     </div>
                 
