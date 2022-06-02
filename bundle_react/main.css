@@ -1,0 +1,75 @@
+.container-tot{
+    font-family: Verdana, Geneva, sans-serif ;
+    background-color: white;
+    color: black;
+    text-align: center ;
+    font-size: larger ;
+}
+
+.pequeno{
+    width: 50%;
+    text-align: center ;
+    
+}
+.img2{
+    height: 100%; 
+    width: 100%;
+     object-fit: contain;
+}
+
+.img1{
+    height: 50%; 
+    width: 50%;
+    box-shadow: 0px 0px 3px 0px rgb(0 0 0 / 100%);
+}
+
+
+body { 
+    padding-top: 60px; 
+}
+
+.custom-blue { 
+    background-color: #023047;
+}
+
+.custom-lb { 
+    background-color: #219ebc;
+}
+
+.custom-orange { 
+    background-color: #ffb703;
+}
+
+.custom-lo { 
+    background-color: #fb8500;
+}
+
+.blue { 
+    color: #023047;
+}
+
+.italics{
+    font-style: italic;
+}
+
+.carousel .carousel-item {
+    height: 500px;
+  }
+  
+.carousel-item img {
+      position: absolute;
+      object-fit:cover;
+      top: 0;
+      left: 0;
+      min-height: 500px;
+}
+
+.btn-primary{
+    background-color: #023047;
+}
+
+.texto {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
